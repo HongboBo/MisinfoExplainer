@@ -1,0 +1,49 @@
+Fidelity+
+Perturbation:
+tweet_text : 0.051984697580337524
+tweet_text reply_text : 0.08930721133947372
+tweet_text reply_text claim_embedding : 0.12829220294952393
+tweet_text reply_text claim_embedding image : 0.1559799313545227
+tweet_text reply_text claim_embedding image user : 0.21838274598121643
+tweet_text reply_text claim_embedding image user tweet_lang : 0.20255032181739807
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer : 0.22769759595394135
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 : 0.5525330305099487
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 : 1.4004963636398315
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 : 1.6506156921386719
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 : 1.9869784116744995
+
+Gradient:
+tweet_text : 0.051984697580337524
+tweet_text e11 : 0.06590226292610168
+tweet_text e11 e10 : 0.13458923995494843
+tweet_text e11 e10 e3 : 0.12415509670972824
+tweet_text e11 e10 e3 e2 : 0.14513961970806122
+tweet_text e11 e10 e3 e2 e8 : 0.16149096190929413
+tweet_text e11 e10 e3 e2 e8 reply_text : 0.1716305911540985
+tweet_text e11 e10 e3 e2 e8 reply_text image : 0.17813976109027863
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding : 0.26219427585601807
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 : 0.27056005597114563
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 : 0.29370659589767456
+
+Fidelity-
+
+
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 : 0.1913307160139084
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 : 0.2259247601032257
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 : 0.104942187666893
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 : 0.07341556996107101
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 e3 : 0.06984679400920868
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 e3 e2 : 0.061546601355075836
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 e3 e2 e8 : 0.05889264866709709
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 e3 e2 e8 e12 : 0.05890072509646416
+tweet_text reply_text claim_embedding image user tweet_lang claim_reviewer reply_lang e7 e6 e5 e10 e11 e1 e9 e3 e2 e8 e12 hashtag : 0.05560906231403351
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 : 1.8481558561325073
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang : 1.7603384256362915
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang : 1.7208786010742188
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer : 1.7707271575927734
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user : 1.5930955410003662
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user hashtag : 1.5949076414108276
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user hashtag e9 : 1.1861505508422852
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user hashtag e9 e5 : 1.2020386457443237
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user hashtag e9 e5 e4 : 1.1079646348953247
+tweet_text e11 e10 e3 e2 e8 reply_text image claim_embedding e12 e1 tweet_lang reply_lang claim_reviewer user hashtag e9 e5 e4 e7 : 0.18615739047527313
